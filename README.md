@@ -8,12 +8,13 @@
 ---
 
 ## About Me  
-DevOps Engineer with **2+ years of experience** in optimizing cloud infrastructure, automating workflows, and driving cost-efficient solutions. Skilled in **AWS**, **Azure**, **CI/CD**, **IaC**, and container orchestration, with a focus on high availability, scalability, and monitoring.
+DevOps Engineer with **3 years of experience** in optimizing cloud infrastructure, automating workflows, and driving cost-efficient solutions. Skilled in **AWS**, **Azure**, **CI/CD**, **IaC**, and container orchestration, with a focus on high availability, scalability, and monitoring.
 
 ---
 
 ## Certifications  
 
-- Microsoft Azure Fundamentals (AZ-900)   
+- Microsoft Azure Fundamentals (AZ-900)
+- AWS Certified Solutions Architect - Associate
 
 ---
